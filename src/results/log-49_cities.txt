@@ -1,0 +1,54 @@
+2019-07-19 18:53:17,891		Starting hill climbing algorithm for 49 cities
+2019-07-19 18:53:17,891		Start distance: 405591
+2019-07-19 18:53:17,914		New best: 385933 km - found after 1 iterations
+2019-07-19 18:53:17,947		New best: 380618 km - found after 3 iterations
+2019-07-19 18:53:17,969		New best: 373754 km - found after 4 iterations
+2019-07-19 18:53:18,008		New best: 322361 km - found after 6 iterations
+2019-07-19 18:53:21,245		New best: 314622 km - found after 299 iterations
+2019-07-19 18:53:25,137		New best: 310839 km - found after 652 iterations
+2019-07-19 18:53:26,305		New best: 303037 km - found after 757 iterations
+2019-07-19 18:53:35,336		New best: 294814 km - found after 1579 iterations
+2019-07-19 18:53:39,305		New best: 291248 km - found after 1939 iterations
+2019-07-19 18:53:39,977		New round after 2000 iterations
+2019-07-19 18:53:39,999		New best: 368935 km - found after 2000 iterations
+2019-07-19 18:53:40,021		New best: 350734 km - found after 2001 iterations
+2019-07-19 18:53:40,273		New best: 325615 km - found after 2023 iterations
+2019-07-19 18:53:40,977		New best: 313285 km - found after 2086 iterations
+2019-07-19 18:53:43,967		New best: 311998 km - found after 2356 iterations
+2019-07-19 18:53:47,249		New best: 307340 km - found after 2654 iterations
+2019-07-19 18:53:51,720		New best: 305395 km - found after 3060 iterations
+2019-07-19 18:53:51,863		New best: 281969 km - found after 3072 iterations
+2019-07-19 18:54:02,052		New round after 4000 iterations
+2019-07-19 18:54:02,074		New best: 401518 km - found after 4000 iterations
+2019-07-19 18:54:02,095		New best: 379598 km - found after 4001 iterations
+2019-07-19 18:54:02,128		New best: 374330 km - found after 4003 iterations
+2019-07-19 18:54:02,216		New best: 354778 km - found after 4010 iterations
+2019-07-19 18:54:02,292		New best: 351213 km - found after 4016 iterations
+2019-07-19 18:54:02,359		New best: 337892 km - found after 4021 iterations
+2019-07-19 18:54:03,591		New best: 334081 km - found after 4132 iterations
+2019-07-19 18:54:04,195		New best: 324165 km - found after 4186 iterations
+2019-07-19 18:54:06,473		New best: 321447 km - found after 4393 iterations
+2019-07-19 18:54:06,670		New best: 316236 km - found after 4410 iterations
+2019-07-19 18:54:06,966		New best: 299412 km - found after 4436 iterations
+2019-07-19 18:54:08,484		New best: 290684 km - found after 4573 iterations
+2019-07-19 18:54:24,169		New round after 6000 iterations
+2019-07-19 18:54:24,202		New best: 376075 km - found after 6001 iterations
+2019-07-19 18:54:24,312		New best: 372452 km - found after 6010 iterations
+2019-07-19 18:54:24,455		New best: 351965 km - found after 6022 iterations
+2019-07-19 18:54:25,168		New best: 335091 km - found after 6086 iterations
+2019-07-19 18:54:26,147		New best: 307865 km - found after 6174 iterations
+2019-07-19 18:54:30,984		New best: 304240 km - found after 6614 iterations
+2019-07-19 18:54:33,846		New best: 296681 km - found after 6874 iterations
+2019-07-19 18:54:39,793		New best: 293781 km - found after 7415 iterations
+2019-07-19 18:54:46,217		New round after 8000 iterations
+2019-07-19 18:54:46,239		New best: 374216 km - found after 8000 iterations
+2019-07-19 18:54:46,261		New best: 345512 km - found after 8001 iterations
+2019-07-19 18:54:46,414		New best: 343908 km - found after 8014 iterations
+2019-07-19 18:54:46,469		New best: 338825 km - found after 8018 iterations
+2019-07-19 18:54:46,501		New best: 336128 km - found after 8020 iterations
+2019-07-19 18:54:47,205		New best: 331991 km - found after 8083 iterations
+2019-07-19 18:54:48,265		New best: 289319 km - found after 8179 iterations
+2019-07-19 18:55:08,406		Results from Simple hill climbing:
+2019-07-19 18:55:08,407		Best Sequence: [['Alexandria', '29.95', '31.22'], ['Cairo', '31.25', '30.06'], ['Hyderabad', '78.48', '17.4'], ['Tianjin', '117.2', '39.13'], ['Mexico City', '-99.14', '19.43'], ['Los Angeles', '-118.41', '34.11'], ['Peking', '116.4', '39.93'], ['Bombay', '72.82', '18.96'], ['Istanbul', '29', '41.1'], ['Saint Petersburg', '30.32', '59.93'], ['Bagdad', '44.44', '33.33'], ['Chengdu', '104.07', '30.67'], ['Wuhan', '114.27', '30.58'], ['Soul', '126.99', '37.56'], ['Chongqing', '106.58', '29.57'], ['Karachi', '67.01', '24.86'], ['Xian', '108.9', '34.27'], ['Calcutta', '88.36', '22.57'], ['Singapore', '103.85', '1.3'], ['Abidjan', '-4.03', '5.33'], ['Lima', '-77.05', '-12.07'], ['Toronto', '-79.38', '43.65'], ['Rio de Janeiro', '-43.2', '-22.91'], ['Ankara', '32.85', '39.93'], ['Ibadan', '3.93', '7.38'], ['Bogota', '-74.09', '4.63'], ['Buenos Aires', '-58.37', '-34.61'], ['Ahmadabad', '72.58', '23.03'], ['Santiago', '-70.64', '-33.46'], ['New York', '-73.94', '40.67'], ['Lahore', '74.35', '31.56'], ['Tehran', '51.43', '35.67'], ['Lagos', '3.35', '6.5'], ['Kinshasa', '15.32', '-4.31'], ['Sao Paulo', '-46.63', '-23.53'], ['Ho Chi Minh City', '106.69', '10.78'], ['Delhi', '77.21', '28.67'], ['Riyadh', '46.77', '24.65'], ['Manila', '120.97', '14.62'], ['Tokyo', '139.77', '35.67'], ['Shanghai', '121.47', '31.23'], ['Dhaka', '90.39', '23.7'], ['Bangkok', '100.5', '13.73'], ['Madras', '80.27', '13.09'], ['London', '-0.1', '51.52'], ['Rangoon', '96.15', '16.79'], ['Bangalore', '77.56', '12.97'], ['Jakarta', '106.83', '-6.18'], ['Moscow', '37.62', '55.75'], ['Alexandria', '29.95', '31.22']]
+2019-07-19 18:55:08,407		Least distance is 281969 km
+2019-07-19 18:55:08,407		Time: 110.52712579799845
