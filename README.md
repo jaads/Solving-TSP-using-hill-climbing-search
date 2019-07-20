@@ -2,7 +2,7 @@
 This project is about finding a solution to the traveling-salesman problem (TSP) using a so called **goal-based AI agent**. 
 The goal is to find a cycle (a roundtrip) which visits every city once, while traveling the minimal possible distance.
 
-A search algorithm called **hill-climbing search** has been used, which is a algorithms from the family of **local search** algorithms.
+A search algorithm called **first-choice hill-climbing search** has been used, which is a algorithms from the family of **local search** algorithms.
 This search evaluates and modifies one current state rather than systematically exploring paths from an initial state to a goal state, as it is done in classical search.
 This path to reach the goal is not of interest. Thus, no data structure representing the search space needs to be maintained. 
 Only the current node needs to record the state and the value of the objective function, here the distance.
